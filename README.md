@@ -45,6 +45,9 @@ The Paint App is a drawing and painting application that allows users to create,
 
 4. Open the application in your browser at `http://localhost:8080` (or the configured port).
 
+
+
+
 ## Usage
 
 1. Draw shapes using the toolbar.
@@ -52,6 +55,10 @@ The Paint App is a drawing and painting application that allows users to create,
 3. Use undo/redo to revert changes.
 4. Save drawings as **XML** or **JSON** files.
 5. Load saved drawings to continue editing.
+
+
+## Demo Video:
+[Watch the demo](https://drive.google.com/drive/folders/13ZgN5x4j2bfR3j7XUH7romC16ZNwk8N3?usp=sharing)
 
 ## Contributors
 
